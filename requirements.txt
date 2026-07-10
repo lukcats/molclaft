@@ -1,0 +1,6 @@
+python-Levenshtein
+rouge-metric
+torch
+transformers
+rdkit-pypi
+sentencepiece
