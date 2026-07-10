@@ -1,7 +1,7 @@
 # MolCLaFT: Towards intelligent automation of molecular toxicity prediction via cross-Modal chemical language modeling and fusion
 
 
-![MolCLaFT标题图](assets/Snipaste_2026-07-10_14-12-37.png)
+![MolCLaFT图](Snipaste_2026-07-10_14-12-37.png)
 
 
 ### Evaluation
